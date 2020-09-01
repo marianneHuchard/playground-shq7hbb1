@@ -1,4 +1,4 @@
-# Welcome!
+# Travaux dirigés et travaux pratiques - semaine 2
 
 This Java template lets you get started quickly with a simple one-page playground.
 
