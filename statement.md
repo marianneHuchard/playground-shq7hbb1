@@ -5,7 +5,7 @@ This Java template lets you get started quickly with a simple one-page playgroun
 ```java runnable
 /*********************************TP 2.1***********************************************/
 
-public class Etudiant {
+class Etudiant {
 
 	
 	/****************** Partie attributs ****************************************/
@@ -128,7 +128,7 @@ public class Etudiant {
 
 public class Main {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 		
 		 
 		 /***********************Constructeurs *******************************************/
